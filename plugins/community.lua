@@ -5,5 +5,16 @@ return {
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
   { import = "astrocommunity.colorscheme.catppuccin" },
+
   { import = "astrocommunity.completion.copilot-lua-cmp" },
+
+  -- { import = "astrocommunity.editing-support.chatgpt-nvim" },
+
+  { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline" },
+
+  { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.html-css" },
+  { import = "astrocommunity.pack.python" },
+
+  { import = "astrocommunity.media.pets-nvim" },
 }
