@@ -10,11 +10,11 @@ return {
 
   -- { import = "astrocommunity.editing-support.chatgpt-nvim" },
 
-  { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline" },
-
+  { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.pack.json" },
 
   { import = "astrocommunity.media.pets-nvim" },
 }
